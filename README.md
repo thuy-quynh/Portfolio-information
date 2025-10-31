@@ -15,12 +15,13 @@ Motivated to apply strong analytical and quality expertise to **pharmaceutical m
 
 ## 🧫 Technical Skills
 
-- **Microbiology testing:** Bioburden, sterility, microbial identification, growth promotion testing  
+- **Microbiology testing:** Bioburden, sterility, microbial identification, growth promotion testing
+- **New Product Development:** Formulation, Costing, texture analysis, 
 - **Environmental monitoring:** Cleanroom, air, water testing  
-- **Regulations:** GDP, GMP, ISO 17025  
+- **Regulations:** GDP, GMP, ISO 17025, HACPP 
 - **Data analysis:** SPSS, TIBCO  
 - **Languages:** English (Advanced), Vietnamese (Native), French (Beginner)  
-- **Other:** No visa required until 2028; eligible for long-term work permit (>€38k salary)
+- **Other:** No visa required until 2028; eligible for long-term work permit ( if the salary is about €38k annual)
 
 ---
 
