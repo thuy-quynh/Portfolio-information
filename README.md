@@ -7,7 +7,7 @@
 
 ## 💡 Summary
 
-MSc graduate in **Functional Foods and Product Development** with over **3 years of experience** in **ISO 17025** and **GMP-compliant microbiology laboratories**.  
+MSc graduate in **Functional Foods and Product Development** with  **hands- on  experience** in **ISO 17025** and **GMP-compliant microbiology laboratories**.  
 Skilled in microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  
 Motivated to apply strong analytical and quality expertise to **pharmaceutical microbiology**, supporting safe product release and continuous process improvement in a regulated environment.
 
@@ -32,7 +32,7 @@ Motivated to apply strong analytical and quality expertise to **pharmaceutical m
 _Feb 2025 – Aug 2025_  
 **Supervisor:** Dr. Liz Russell  
 
-- Developed a **functional food formulation project** including HACCP planning and process validation.  
+- Developed a **functional food formulation project** including HACCP planning, costing calcuation,  process validation.  
 - Conducted **sensory, texture, and chemical testing** to assess product quality.  
 - Performed **statistical analysis** and compiled structured **technical reports** and presentations.  
 
@@ -57,7 +57,7 @@ _2017 – 2024_
 **MSc in Functional Foods and Product Development**  
 _University of Limerick, Ireland (2024 – 2025)_  
 Modules: Product development, Industrial food fermentation, Nutraceuticals and disease, EU food regulations.  
-Acquired skills: Sensory analysis, SDS-PAGE protein analysis, antioxidant assays, statistical interpretation.  
+Acquired skills: Sensory analysis, ultrasonication, antioxidant assays,spectroscopy,protein hydrolysates statistical interpretation.  
 
 **BSc in Biotechnology**  
 _Vietnam National University of Agriculture, Vietnam (2013 – 2017)_
