@@ -8,7 +8,7 @@
 ## 💡 Summary
 
 MSc graduate in **Functional Foods and Product Development** with  **hands- on  experience** in **ISO 17025** and **GMP-compliant microbiology laboratories**.  
-Skilled in microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  
+Skilled in food product development, microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  
 Motivated to apply strong analytical and quality expertise to **pharmaceutical microbiology**, supporting safe product release and continuous process improvement in a regulated environment.
 
 ---
