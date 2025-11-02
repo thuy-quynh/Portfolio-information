@@ -41,7 +41,7 @@ _Feb 2025 – Aug 2025_
 **Analysis and Testing Center 1, Vinacontrol Corporation Group, Vietnam**  
 _2017 – 2024_  
 
-> Vinacontrol is one of Vietnam’s leading third-party testing, inspection, and certification companies (comparable to SGS, Eurofins, ALS).
+> Vinacontrol is one of Vietnam’s leading third-party testing, inspection, and certification companies (comparable to SGS, Eurofins, ALS). The laboratory was accredited by ILAC-MRA
 
 - Performed **routine microbiological testing** on raw, in-process, and finished product samples (food, feed, water, medical devices, enviromental samples) under **ISO 17025** and **GMP-equivalent** scopes.  
 - Validated and transferred microbiological methods; drafted **SOPs**, **change control**, and **risk assessments**.  
