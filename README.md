@@ -8,8 +8,7 @@
 ## 💡 Summary
 
 MSc graduate in **Functional Foods and Product Development** with  **hands- on  experience** in **ISO 17025** and **GMP-compliant microbiology laboratories**.  
-Skilled in food product development, microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  
-Motivated to apply strong analytical and quality expertise to **pharmaceutical microbiology**, supporting safe product release and continuous process improvement in a regulated environment.
+Skilled in food product development, microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  Motivated to apply strong analytical and quality expertise to **pharmaceutical microbiology/ food sector**, supporting safe product release and continuous process improvement in a regulated environment.
 
 ---
 
@@ -21,7 +20,7 @@ Motivated to apply strong analytical and quality expertise to **pharmaceutical m
 - **Regulations:** GDP, GMP, ISO 17025, HACPP 
 - **Data analysis:** SPSS, TIBCO  
 - **Languages:** English (Advanced), Vietnamese (Native), French (Beginner)  
-- **Other:** No visa required until 2028; eligible for long-term work permit ( if the salary is about €38k annual)
+- **Other:** No visa required until **2028**; eligible for long-term work permit ( if the salary is about €38k annual)
 
 ---
 
@@ -49,7 +48,10 @@ _2017 – 2024_
 - Calibrated instruments (incubators, balances, pipettes) to ensure testing accuracy and GLP compliance.  
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.  
-
+---
+**Achivement**
+- Top Performance in Vinacontrol Corporation Group, 2021
+- Advanced Staff in Vinacontrol Corporation Group in 2019, 2022, 2023
 ---
 
 ## 🎓 Education
