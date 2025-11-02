@@ -48,7 +48,8 @@ _2017 – 2024_
 - Calibrated instruments (incubators, balances, pipettes) to ensure testing accuracy and GLP compliance.  
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.  
-** Noticed Project**
+
+**Noticed Project**
 - Led and responed project for testing antimicrobial activity of textiles (quantitive, qualititive method), contributed to a 5% increase in the laboratory's profits.
 - 
 - 
