@@ -43,12 +43,15 @@ _2017 – 2024_
 
 > Vinacontrol is one of Vietnam’s leading third-party testing, inspection, and certification companies (comparable to SGS, Eurofins, ALS).
 
-- Performed **routine microbiological testing** on raw, in-process, and finished product samples under **ISO 17025** and **GMP-equivalent** scopes.  
+- Performed **routine microbiological testing** on raw, in-process, and finished product samples (food, feed, water, medical devices, enviromental samples) under **ISO 17025** and **GMP-equivalent** scopes.  
 - Validated and transferred microbiological methods; drafted **SOPs**, **change control**, and **risk assessments**.  
 - Calibrated instruments (incubators, balances, pipettes) to ensure testing accuracy and GLP compliance.  
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.  
----
+** Noticed Project**
+- Led and responed project for testing antimicrobial activity of textiles (quantitive, qualititive method), contributed to a 5% increase in the laboratory's profits.
+- 
+- 
 **Achivement**
 - Top Performance in Vinacontrol Corporation Group, 2021
 - Advanced Staff in Vinacontrol Corporation Group in 2019, 2022, 2023
