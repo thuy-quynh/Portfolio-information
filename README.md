@@ -53,7 +53,7 @@ _2017 – 2024_
 - Responsible for culture medium performance and preparation of working reference culture. 
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.
--  **Experience equipment**: balance, biosafety cabinet (Class II),colony counter, water bath, vortex mixer,  centrifuge
+- **Experience equipment**: balance, biosafety cabinet (Class II),colony counter, water bath, vortex mixer,  centrifuge
 
 
 **Noticed Project**
