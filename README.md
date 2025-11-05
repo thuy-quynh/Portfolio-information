@@ -33,8 +33,9 @@ _Feb 2025 – Aug 2025_
 
 - Developed a **functional food formulation project** including HACCP planning, costing calcuation,  process validation.
 - Produced food samples in pilot scale, operated and calibrated equipments
-- Conducted **sensory, texture, and chemical testing** to assess product quality.  
-- Performed **statistical analysis** and compiled structured **technical reports** and presentations.  
+- Conducted **sensory, texture,colour and chemical testing** to assess product quality.  
+- Performed **statistical analysis** and compiled structured **technical reports** and presentations.
+- **Equipments**: Texture proflile analysis, colorimeter, pH, ultrasonic system,...
 
 ---
 
