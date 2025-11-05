@@ -68,11 +68,10 @@ _2017 – 2024_
 - Advanced Staff in Vinacontrol Corporation Group in 2019, 2022, 2023
 
 ** Microbiological testing experience**
-
-Proficient in   different kinds of samples and testing methods
-- Total viable count, yeast- mould, S.aureus, Clostridum perfringens, Salmonella spp., Bacillus cereus,E.coli, Coliform
+Proficient in sample handling and testing methods
+- Determine total viable count, yeast- mould, S.aureus, Clostridum perfringens, Salmonella spp., Bacillus cereus,E.coli, Coliform, Pseudomonas aeruginosa.. in food/ feed/ water. 
 - Preservative Efficacy Test (PET)/ Antimicrobial Effectiveness Test: Determine preservative efficacy in multi-dose sterile and non-sterile products following USP <51> and ISO 11930 guidelines.
-- Bioburden Test – Determination of microbial contamination levels in sterile raw materials, packaging components, and medical devices according to ISO 11737-1 and USP 61/62
+- Bioburden Test – Determination of microbial contamination levels in sterile raw materials, packaging components, and medical devices according to ISO 11737-1 and USP 61/62. 
 - Sterility Test – Verification of sterility for parenteral products, sterile raw materials, medical devices, and direct-contact packaging in compliance with USP 71, EP 2.6.1, and ISO 11737-2.
 ---
 
