@@ -20,7 +20,7 @@ Skilled in food product development, microbiology testing, method validation, an
 - **Regulations:** GDP, GMP, ISO 17025, HACPP 
 - **Data analysis:** SPSS, TIBCO  
 - **Languages:** English (Advanced), Vietnamese (Native), French (Beginner)  
-**Other:** No visa required until  **2028**
+ No visa required until  **2028**
 
 ---
 
