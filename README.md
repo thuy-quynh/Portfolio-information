@@ -8,7 +8,7 @@
 ## 💡 Summary
 
 MSc graduate in **Functional Foods and Product Development** with  **hands- on  experience** in **ISO 17025** and **GMP-compliant microbiology laboratories**.  
-Skilled in food product development, microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  Motivated to apply strong analytical and quality expertise to **pharmaceutical microbiology/ food sector**, supporting safe product release and continuous process improvement in a regulated environment.
+Skilled in food product development, microbiology testing, method validation, and ensuring **data integrity** and **regulatory compliance**.  Motivated to apply strong analytical and quality expertise to **pharmaceutical microbiology/ food sector**, supporting safe product release and continuous process improvement in a regulated environment. I am quick learner who can adap immediately with different requirements. 
 
 ---
 
@@ -31,7 +31,8 @@ Skilled in food product development, microbiology testing, method validation, an
 _Feb 2025 – Aug 2025_  
 **Supervisor:** Dr. Liz Russell  
 
-- Developed a **functional food formulation project** including HACCP planning, costing calcuation,  process validation.  
+- Developed a **functional food formulation project** including HACCP planning, costing calcuation,  process validation.
+- Produced food samples in pilot scale, operated and calibrated equipments
 - Conducted **sensory, texture, and chemical testing** to assess product quality.  
 - Performed **statistical analysis** and compiled structured **technical reports** and presentations.  
 
@@ -50,9 +51,9 @@ _2017 – 2024_
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.  
 
 **Noticed Project**
-- Led and responed project for testing antimicrobial activity of textiles (quantitive, qualititive method), contributed to a 5% increase in the laboratory's profits.
-- 
-- 
+- **2020** Led research  project for testing antimicrobial activity of textiles (quantitive, qualititive method), contributed to increase in the laboratory's profits during covid 19
+- **2022** Conducted microbiological analysis and cleanroom validation according to ISO 16144, GMP standards at Ha Tinh Center for Testing of Drugs, Cosmetics and Food, Ha Tinh Department of Health, Ministry of Health, Vietnam
+   
 **Achivement**
 - Top Performance in Vinacontrol Corporation Group, 2021
 - Advanced Staff in Vinacontrol Corporation Group in 2019, 2022, 2023
