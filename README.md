@@ -35,7 +35,7 @@ _Feb 2025 – Aug 2025_
 - Produced food samples in pilot scale, operated and calibrated equipments
 - Conducted **sensory, texture,colour and chemical testing** to assess product quality.  
 - Performed **statistical analysis** and compiled structured **technical reports** and presentations.
-- **Equipments Experience**: Texture proflile analysis, colorimeter, pH, ultrasonic system,...
+- **Experience Equipment**: Texture proflile analysis, colorimeter, pH, ultrasonic system,...
 
 ---
 
@@ -51,14 +51,10 @@ _2017 – 2024_
 - Responsible for culture medium performance and preparation of working reference culture. 
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.
--  **Equipments Experience**: balance, laminar, 
+-  **Experience equipment**: balance, biosafety cabinet (Class II),colony counter, water bath, vortex mixer,  centrifuge
 **Noticed Project**
-- **2020** Led research  project for testing antimicrobial activity of textiles (quantitive, qualititive method), contributed to increase in the laboratory's profits during covid 19
+- **2020** Led applied research  project for testing antimicrobial activity of textiles (quantitive, qualititive method), following by AATCC 100, 147, contributed to increase in the laboratory's profits during covid 19
 - **2022** Conducted microbiological analysis and cleanroom validation according to ISO 16144, GMP standards at Ha Tinh Center for Testing of Drugs, Cosmetics and Food, Ha Tinh Department of Health, Ministry of Health, Vietnam
-  <p align="center">
-    <img src="" w![Uploading Screenshot 2025-11-05 at 08.44.47.png…]()
-idth="600" alt="Maximum action limits for viable particle contamination">
-  </p>
 
    
 **Achivement**
