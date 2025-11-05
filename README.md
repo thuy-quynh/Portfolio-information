@@ -1,4 +1,4 @@
-# 🌿 THUY QUYNH NGUYEN (Anna)
+🌿 Thuy Quynh NGUYEN (Anna)
 
 📍 Ireland | ✉️ [thuy.nq212@gmail.com.com](mailto:thuy.nq212@gmail.com)   | 📱 +353 89 429 1043 | 🔗 [LinkedIn: @thuynguyen25](https://www.linkedin.com/in/thuynguyen25)
 
