@@ -19,8 +19,8 @@ Skilled in food product development, microbiology testing, method validation, an
 - **Environmental monitoring:** Cleanroom, air, water testing  
 - **Regulations:** GDP, GMP, ISO 17025, HACPP 
 - **Data analysis:** SPSS, TIBCO  
-- **Languages:** English (Advanced), Vietnamese (Native), French (Beginner)  
- No visa required until  **2028**
+- **Languages:** English (Advanced), Vietnamese (Native), French (Beginner)
+- **No visa sponsorship required until 2028 and if the salary is above 38k, a long term work permit can be secured**
 
 ---
 
@@ -47,7 +47,7 @@ _2017 – 2024_
 
 - Performed **routine microbiological testing** on raw, in-process, and finished product samples (food, feed, water, medical devices, enviromental samples) under **ISO 17025** and **GMP-equivalent** scopes.  
 - Validated and transferred microbiological methods; drafted **SOPs**, **change control**, and **risk assessments**.  
-- Calibrated instruments (incubators, balances, pipettes) to ensure testing accuracy and GLP compliance.
+- Calibrated instruments (incubators, balances, pipettes...) to ensure testing accuracy and GLP compliance.
 - Responsible for culture medium performance and preparation of working reference culture. 
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.
