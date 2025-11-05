@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[profile.jpg](https://drive.google.com/file/d/1xBonEd5Z1tKXo_-SUjKnhYciKwdG5Vrc/view?usp=sharing)" width="200" alt="Thuy Quynh Nguyen photo" style="border-radius: 50%">
-</p>
 
  
  Thuy Quynh NGUYEN (Anna)
