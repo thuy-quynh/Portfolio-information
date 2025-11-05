@@ -53,6 +53,8 @@ _2017 – 2024_
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.
 -  **Experience equipment**: balance, biosafety cabinet (Class II),colony counter, water bath, vortex mixer,  centrifuge
+
+
 **Noticed Project**
 - **2020** Led applied research  project for testing antimicrobial activity of textiles (quantitive, qualititive method), following by AATCC 100, 147, contributed to increase in the laboratory's profits during covid 19
 - **2022** Conducted microbiological analysis and cleanroom validation according to ISO 16144, GMP standards at Ha Tinh Center for Testing of Drugs, Cosmetics and Food, Ha Tinh Department of Health, Ministry of Health, Vietnam
