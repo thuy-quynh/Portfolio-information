@@ -52,10 +52,10 @@ _2017 – 2024_
 - Performed **routine microbiological testing** on raw, in-process, and finished product samples (food, feed, water, medical devices, enviromental samples) under **ISO 17025** and **GMP-equivalent** scopes.  
 - Validated and transferred microbiological methods; drafted **SOPs**, **change control**, and **risk assessments**.  
 - Calibrated instruments (incubators, balances, pipettes...) to ensure testing accuracy and GLP compliance.
-- Responsible for culture medium performance and preparation of working reference culture. 
+- Responded  culture medium performance and preparation of working reference culture. 
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
 - Supported **internal/external audits**, contributing to **continuous improvement** initiatives.
-- **Experience equipment**: balance, biosafety cabinet (Class II),colony counter, water bath, vortex mixer,  centrifuge
+- **Experience equipment**: balance, biosafety cabinet (Class II),colony counter, water bath, vortex mixer,  centrifuge, air sampler
 
 
 **Noticed Project**
@@ -66,6 +66,14 @@ _2017 – 2024_
 **Achivement**
 - Top Performance in Vinacontrol Corporation Group, 2021
 - Advanced Staff in Vinacontrol Corporation Group in 2019, 2022, 2023
+
+** Microbiological testing experience**
+
+Proficient in   different kinds of samples and testing methods
+- Total viable count, yeast- mould, S.aureus, Clostridum perfringens, Salmonella spp., Bacillus cereus,E.coli, Coliform
+- Preservative Efficacy Test (PET)/ Antimicrobial Effectiveness Test: Determine preservative efficacy in multi-dose sterile and non-sterile products following USP <51> and ISO 11930 guidelines.
+- Bioburden Test – Determination of microbial contamination levels in sterile raw materials, packaging components, and medical devices according to ISO 11737-1 and USP 61/62
+- Sterility Test – Verification of sterility for parenteral products, sterile raw materials, medical devices, and direct-contact packaging in compliance with USP 71, EP 2.6.1, and ISO 11737-2.
 ---
 
 ## 🎓 Education
