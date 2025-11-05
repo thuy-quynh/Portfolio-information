@@ -35,7 +35,7 @@ _Feb 2025 – Aug 2025_
 - Produced food samples in pilot scale, operated and calibrated equipments
 - Conducted **sensory, texture,colour and chemical testing** to assess product quality.  
 - Performed **statistical analysis** and compiled structured **technical reports** and presentations.
-- **Equipments**: Texture proflile analysis, colorimeter, pH, ultrasonic system,...
+- **Equipments Experience**: Texture proflile analysis, colorimeter, pH, ultrasonic system,...
 
 ---
 
@@ -47,13 +47,19 @@ _2017 – 2024_
 
 - Performed **routine microbiological testing** on raw, in-process, and finished product samples (food, feed, water, medical devices, enviromental samples) under **ISO 17025** and **GMP-equivalent** scopes.  
 - Validated and transferred microbiological methods; drafted **SOPs**, **change control**, and **risk assessments**.  
-- Calibrated instruments (incubators, balances, pipettes) to ensure testing accuracy and GLP compliance.  
+- Calibrated instruments (incubators, balances, pipettes) to ensure testing accuracy and GLP compliance.
+- Responsible for culture medium performance and preparation of working reference culture. 
 - Delivered accurate, traceable data supporting **regulatory audits** and **CAPA** investigations.  
-- Supported **internal/external audits**, contributing to **continuous improvement** initiatives.  
-
+- Supported **internal/external audits**, contributing to **continuous improvement** initiatives.
+-  **Equipments Experience**: balance, laminar, 
 **Noticed Project**
 - **2020** Led research  project for testing antimicrobial activity of textiles (quantitive, qualititive method), contributed to increase in the laboratory's profits during covid 19
 - **2022** Conducted microbiological analysis and cleanroom validation according to ISO 16144, GMP standards at Ha Tinh Center for Testing of Drugs, Cosmetics and Food, Ha Tinh Department of Health, Ministry of Health, Vietnam
+  <p align="center">
+    <img src="" w![Uploading Screenshot 2025-11-05 at 08.44.47.png…]()
+idth="600" alt="Maximum action limits for viable particle contamination">
+  </p>
+
    
 **Achivement**
 - Top Performance in Vinacontrol Corporation Group, 2021
