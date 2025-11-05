@@ -1,4 +1,9 @@
-🌿 Thuy Quynh NGUYEN (Anna)
+<p align="center">
+  <img src="profile.jpg" width="200" alt="Thuy Quynh Nguyen photo" style="border-radius: 50%">
+</p>
+
+ 
+ Thuy Quynh NGUYEN (Anna)
 
 📍 Ireland | ✉️ [thuy.nq212@gmail.com.com](mailto:thuy.nq212@gmail.com)   | 📱 +353 89 429 1043 | 🔗 [LinkedIn: @thuynguyen25](https://www.linkedin.com/in/thuynguyen25)  | 💼 <a href="https://teams.microsoft.com/l/chat/0/0?users=thuyquynhng@outlook.com">Microsoft Teams</a>
 </p>
